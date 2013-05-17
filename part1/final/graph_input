@@ -1,0 +1,1 @@
+xgraph part1_1.dat.circular.DSDV -geometry 800X400 -lw 2 -ng -nb -bb -y "Throughput in Kbps" -x "#of nodes" -t "Total throughput v/s # of nodes"
